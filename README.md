@@ -1,17 +1,7 @@
 ## Hi there 👋
 
-<a href="https://github.com/nicopiko#gh-light-mode-only">
-  <div align="center">
-    <img align="top" width="400px" src="https://github-readme-stats.vercel.app/api?username=nicopiko&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true"/>
-    <img align="top" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicopiko&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact"/>
-  </div>
-</a>
-<a href="https://github.com/nicopiko#gh-dark-mode-only">
-  <div align="center">
-    <img align="top" width="400px" src="https://github-readme-stats.vercel.app/api?username=nicopiko&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true"/>
-    <img align="top" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicopiko&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact"/>
-  </div>
-</a>
+## Statistics
+[![Nicolai F. Stallknecht's' github stats](https://github-readme-stats.vercel.app/api?username=nico135c&count_private=true&show_icons=true&theme=github_dark)](https://github.com/nico135c)<img align="top" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nico135c&layout=compact&hide_border=true&card_width=200&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF"/>
 
 ## My Experience
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
