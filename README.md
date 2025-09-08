@@ -10,4 +10,4 @@ I am a full-time student at Aalborg University. Currently, I am pursuing a Maste
 
 ## 📫 Get in Touch
 - 📧 Email: nicolaifosmark@outlook.com
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/peter-plass-jensen-165441259/](https://www.linkedin.com/in/nicolai-stallknecht-865b48328))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nicolai-stallknecht-865b48328)
